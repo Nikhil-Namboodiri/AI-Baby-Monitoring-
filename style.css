@@ -1,0 +1,28 @@
+canvas{
+    border: 5px solid white;
+    border-radius: 0px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 5px;
+}
+#heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    top: 0;
+}
+
+
+#status{
+    font-style: italic;
+    color: darkgoldenrod;
+    font-size: 30px;
+    text-align: center;
+}
+
+#desc{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
